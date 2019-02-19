@@ -1,1 +1,3 @@
-# rsschool-2019Q1-codeacademy
+Maksim Shabanski
+HTML CSS Basics: https://www.codecademy.com/users/MaksimShabanski/achievements
+HTML CSS Basics: https://htmlacademy.ru/profile/id66531
